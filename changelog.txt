@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-18
   Changes:
     - [item=pc-pollution-combinator] Move to circuit-input subgroup if Schall's Circuit Group is installed.
