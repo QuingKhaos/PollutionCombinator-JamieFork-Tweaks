@@ -1,14 +1,14 @@
 {
   "name": "PollutionCombinator-JamieFork-Tweaks",
   "title": "Pollution Combinator (Jamie's Fork) Tweaks",
-  "description": "Opinionated tweaks to Pollution Combinator (Jamie's Fork).",
+  "description": "[DEPRECATED] Functionality migrated to QuingKhaos' Circuitry Tweaks.",
   "author": "QuingKhaos",
-  "homepage": "",
-  "version": "1.0.0",
+  "homepage": "https://discord.gg/SYmkaDjFCt",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
-    "PollutionCombinator-JamieFork >= 1.1.0",
-    "? SchallCircuitGroup >= 2.0.0"
+
+    "khaoscircuitry >= 1.5.0"
   ]
 }
